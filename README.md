@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vshawale907
-- 👀 I’m interested in Full Stack Web Development...
+- 👀 I’m interested in Full Stack Web Development and in web3...
 - 🌱 I’m currently learning DSA of C++
 - 📫 How to reach me vaibhavhawale907@gmail.com ,+917709918101.
 <!---
